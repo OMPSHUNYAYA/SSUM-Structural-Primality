@@ -1,4 +1,4 @@
-⭐ **Structural Primality — Quickstart**
+# ⭐ **Structural Primality — Quickstart**
 
 Deterministic • Exact Arithmetic • Structural Metrics • Reproducible Analysis
 
